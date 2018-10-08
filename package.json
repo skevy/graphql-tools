@@ -61,7 +61,7 @@
   "devDependencies": {
     "@types/chai": "4.0.10",
     "@types/dateformat": "^1.0.1",
-    "@types/graphql": "14.0.0",
+    "@types/graphql": "14.0.1",
     "@types/mocha": "^2.2.44",
     "@types/node": "^8.0.47",
     "@types/uuid": "^3.4.3",
